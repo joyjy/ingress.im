@@ -1,0 +1,3 @@
+[submodule "enlightened"]
+	path = enlightened
+	url = git@bitbucket.org:enlbeijing/enl.ingress.im.git
