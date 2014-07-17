@@ -31,14 +31,14 @@ Hack 能获得的物品通常不会高于自己和Portal的最低等级。Hack �
  - Mod：提升 Portal 属性；
  - Power Cube：能量块，为 Scanner 补充 XM；
  - Media：世界各地的 Ingress 动态和一些隐藏着不为人知的秘密的媒体文件；
- - Capsules：批量存储物品；
- - Portal Key：能够远程查看 Portal 和为它充能；注意 Link 到 Portal 会消耗一个 Key。
+ - Capsules：胶囊，批量存储物品；
+ - Portal Key：能够 Link、远程查看 Portal 和为它充能；注意 Link 到 Portal 会消耗 Key。
 
 ## Deploy
 
 当 Portal 在 Scanner 40 米范围内时，把 Resonator 部署在 Portal 周围可以使能量稳定下来为阵营所用。Portal 的等级为部署的 Resonator 的平均等级，部署 Resonator 的位置等于 Scanner 的中心（也就是你）到 Portal 的距离。Resonator 的能量每天会衰减 10%（没错，现在的33%是不正常的，这是一场全球的 XM Anomaly 事件），当衰减为 0，Resonator 就会消失。
 
-## Destory
+## Destroy
 
 Weapon 包括 XMP（范围攻击）、Ultra Strike（集中打击）、ADA 和 Jarvis（病毒，把 Portal 转化为指定阵营，同时会摧毁上面所有 Link）；
 武器在目标中心释放可以获得最大的攻击力，在攻击范围以外的物体将不会受到攻击。
