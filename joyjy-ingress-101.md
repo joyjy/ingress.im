@@ -32,7 +32,7 @@ Hack 能获得的物品通常不会高于自己和Portal的最低等级。Hack �
  - Capsules：批量存储物品；
  - Portal Key：能够远程查看 Portal 和为它充能；注意 Link 到 Portal 会消耗一个 Key。
 
-## Depoly
+## Deploy
 
 当 Portal 在 Scanner 40 米范围内时，把 Resonator 部署在 Portal 周围可以使能量稳定下来为阵营所用。Portal 的等级为部署的 Resonator 的平均等级，部署 Resonator 的位置等于 Scanner 的中心（也就是你）到 Portal 的距离。Resonator 的能量每天会衰减 10%（没错，现在的33%是不正常的，这是一场全球的 XM Anomaly 事件），当衰减为 0，Resonator 就会消失。
 
