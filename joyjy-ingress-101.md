@@ -1,5 +1,7 @@
 # JoYJY 的 Ingress 小教室 - 初级篇 #
 
+> 这里是官方的战场指南，讲解更加详细并且有图有真相 http://goo.gl/w1Iblr。
+
 ## XM
 
 地上的白色光点被称为 XM，它们是 Shaper 从另一个世界释放的能量。Shaper 的目的是什么？对这一问题的不同猜想决定了你的立场。
@@ -52,7 +54,7 @@ Weapon 包括 XMP（范围攻击）、Ultra Strike（集中打击）、ADA 和 J
 
 ## Link
 
-当 Portal 在 Scanner 40 米范围内时，可以从它连出到其他 Portal 的 Link，Link 需要目标 Portal 的 Key。Portal 的等级与它能连出的 Link 长度成正比，Link 不可交叉。一个 Portal 最多连出 8 条 Link，连入的数量没有限制。当 Resonator 的数量低于 3 个，Link 就会被摧毁。
+当 Portal 在 Scanner 40 米范围内时，可以从它连出到其他 Portal 的 Link，Link 需要目标 Portal 的 Key 和目标 Portal 8 个 Resonator 都部署完整。Portal 的等级与它能连出的 Link 长度成正比，Link 不可交叉。一个 Portal 最多连出 8 条 Link，连入的数量没有限制。当 Resonator 的数量低于 3 个，Link 就会被摧毁。
 
 ## Field
 
