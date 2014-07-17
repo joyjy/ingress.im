@@ -1,6 +1,6 @@
 # JoYJY 的 Ingress 小教室 - 初级篇 #
 
-> 右边是官方的战场指南，讲解更加详细并且有图有真相 http://goo.gl/w1Iblr。
+> 右边是官方的战场指南，讲解更加详细并且有图有真相 http://goo.gl/w1Iblr 。
 
 ## XM
 
