@@ -1,4 +1,4 @@
-# JoYJY 的 Ingress 小教室 #
+# JoYJY 的 Ingress 小教室 - 初级篇 #
 
 ## XM
 
@@ -6,7 +6,7 @@
 
 ## Scanner
 
-你手中的不仅是一个手机，它包含了从 Niantic Lab 中获取的神秘科技。它利用 XM 工作，带你领略世界的另一面。当升级后，Scanner 能存储的 XM 容量会上升，你能做到的事情也会越多。
+你手中的不仅是一部手机，它包含了从 Niantic Lab 中获取的神秘科技。它利用 XM 工作，带你领略世界的另一面。当获得足够多的 AP 升级后，Scanner 能存储的 XM 容量会上升，你能做到的事情也会越多。
 
 ## Portal
 
@@ -25,14 +25,8 @@ Hack 能获得的物品通常不会高于自己和Portal的最低等级。Hack �
 只能使用不高于自己等级的物品，越高级的物品，使用时需要的 XM 也越多，物品的掉落概率与稀有程度密切相关：
 
  - Resonator，谐振器，用于部署 Portal；
- - Weapon，武器，用于攻击对方阵营的 Portal：包括 XMP（范围攻击）、Ultra Strike（集中打击）、ADA 和 Jarvis（病毒，把 Portal 转化为指定阵营，同时会摧毁上面所有 Link）；
+ - Weapon，武器，用于攻击对方阵营的 Portal；
  - Mod：提升 Portal 属性；
- 	- Shield：提升防御力；
- 	- Link Amp：提升连出 Link 距离；
- 	- Heat Sink：加快 Portal 冷却即缩短 Hack 间隔时间；
- 	- Multi-hack：提升 Portal 在 4 小时 过热前的 Hack 次数；
- 	- Force Amp：提升反击敌方阵营的攻击力；
- 	- Turret：提升反击敌方阵营的概率；
  - Power Cube：能量块，为 Scanner 补充 XM；
  - Media：世界各地的 Ingress 动态和一些隐藏着不为人知的秘密的媒体文件；
  - Capsules：批量存储物品；
@@ -40,8 +34,26 @@ Hack 能获得的物品通常不会高于自己和Portal的最低等级。Hack �
 
 ## Depoly
 
-把 Resonator 部署在 Portal 周围可以使能量稳定下来为阵营所用。
+当 Portal 在 Scanner 40 米范围内时，把 Resonator 部署在 Portal 周围可以使能量稳定下来为阵营所用。Portal 的等级为部署的 Resonator 的平均等级，部署 Resonator 的位置等于 Scanner 的中心（也就是你）到 Portal 的距离。Resonator 的能量每天会衰减 10%（没错，现在的33%是不正常的，这是一场全球的 XM Anomaly 事件），当衰减为 0，Resonator 就会消失。
 
 ## Destory
+
+Weapon 包括 XMP（范围攻击）、Ultra Strike（集中打击）、ADA 和 Jarvis（病毒，把 Portal 转化为指定阵营，同时会摧毁上面所有 Link）；
+武器在目标中心释放可以获得最大的攻击力，在攻击范围以外的物体将不会受到攻击。
+
+## Mod
+
+ - Shield：提升防御力；
+ - Link Amp：提升连出 Link 距离；
+ - Heat Sink：加快 Portal 冷却即缩短 Hack 间隔时间；
+ - Multi-hack：提升 Portal 在 4 小时 过热前的 Hack 次数；
+ - Force Amp：提升反击敌方阵营的攻击力；
+ - Turret：提升反击敌方阵营的概率；
+
 ## Link
+
+当 Portal 在 Scanner 40 米范围内时，可以从它连出到其他 Portal 的 Link，Link 需要目标 Portal 的 Key。Portal 的等级与它能连出的 Link 长度成正比，Link 不可交叉。一个 Portal 最多连出 8 条 Link，连入的数量没有限制。当 Resonator 的数量低于 3 个，Link 就会被摧毁。
+
 ## Field
+
+三角形的 Link 就可以形成 Field，Field 笼罩下人类的 Mind Unit 是我们的终极目标——影响人类的思想。在 Field 内的 Portal 无法 Link，但从 Field 的顶点可以向 Field 内符合条件的 Portal Link。Field 可以嵌套。
