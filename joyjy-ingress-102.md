@@ -14,29 +14,70 @@
 2. 尊重游戏本身
 
 	当同意了服务协议，相当于你做出了以下承诺：
-	- 我同意不一人多号；
+	- 我同意不使用多个游戏帐号；
 	- 我同意不和别人分享帐号；
 	- 我同意不使用第三方工具访问游戏数据；
 	- 我同意不交易物品或帐号；
 	- 我会使用自己的真实的地理位置进行游戏；
-
-	希望你能记住并思考这些承诺的意义。
 
 3. 当你遇到违规行为的时候，没有必要让违规者觉得自己受到了关注，向官方举报即可，以下链接可以跳过选择过程直接填写表单：
 
 	- [多帐号/共享帐号及交易行为](https://support.google.com/ingress/answer/2808360?contact=1#contact=1&ts=3453649,2869471,3058324)
 	- [伪造地理信息](https://support.google.com/ingress/answer/2808360?contact=1#contact=1&ts=3453649,2869471,3058331)
 	- [使用非官方工具](https://support.google.com/ingress/answer/2808360?contact=1#contact=1&ts=3453649,2869471,3058332)
-	- [虚假/不安全/正常人无法进入的 Portal](https://support.google.com/ingress/answer/2808360?contact=1#contact=1&ts=3453649,3453656)
 	- [受到骚扰](https://support.google.com/ingress/answer/2808360?contact=1#contact=1&ts=3453649,3453615)
 	- [垃圾信息](https://support.google.com/ingress/answer/2808360?contact=1#contact=1&ts=3453649,2869441)
+	- [不恰当的 codename](https://support.google.com/ingress/answer/2808360?contact=1#contact=1&ts=3453649,3453654)
+
+	虚假/不安全/正常人无法进入的 Portal，可以在游戏内举报；
 
 ## 数值说明
 
+下面到了枯燥的数字时间。注意：记住这些数字可能会损失一些自己摸索的乐趣。
+
 ### XM
+
+> XM is everything.
+
+|  | Scanner | Power Cube* | Hack | Deploy | XMP | Ultra Strike | Virus | Link |
+|--:|---|---|---|---|---|---|---|---|---|
+| L1 | 3000 | 1000 |
+| L2 | 4000 | 2000 |
+| L3 | 5000 | 3000 |
+| L4 | 6000 | 4000 |
+| L5 | 7000 | 5000 |
+| L6 | 8000 | 6000 |
+| L7 | 9000 | 7000 |
+| L8 | 10000 | 8000 |
+| L9 | 10900 |
+| L10 | 11800 |
+| L11 |  |
+| L12 |  |
+| L13 |  |
+| L14 |  |
+| L15 |  |
+| L16 |  |
+
+*除Power Cube 外所有操作的对象为 Portal。
 
 ### AP
 
+|  | L1 | L2 | L3 | L4 | L5 | L6 | L7 | L8 | L9 | L10 | L11 | L12 | L13 | L14 | L15 | L16 |
+|--:|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
 ### Link
 
+|  | L1 | L2 | L3 | L4 | L5 | L6 | L7 | L8 |
+|--:|---|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |  |  |
+
 ### Mod
+
+## Q&A
+
+Q：我升不了级？
+A：去验证手机。
+
+Q：有没有找 Portal 的方法？
+A：www.ingress.com/intel。

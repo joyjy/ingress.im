@@ -8,7 +8,7 @@
 
 ## Scanner
 
-你手中的不仅是一部手机，它包含了从 Niantic Lab 中获取的神秘科技。它利用 XM 工作，带你领略世界的另一面。当获得足够多的 AP 升级后，Scanner 能存储的 XM 容量会上升，你能做到的事情也会越多。
+你手中的不仅是一部手机，它包含了从 [Niantic Lab](http://www.nianticproject.com/) 中获取的神秘科技。它利用 XM 工作，带你领略世界的另一面。当获得足够多的 AP 升级后，Scanner 能存储的 XM 容量会上升，你能做到的事情也会越多。
 
 ## Portal
 
@@ -54,7 +54,7 @@ Weapon 包括 XMP（范围攻击）、Ultra Strike（集中打击）、ADA 和 J
 
 ## Link
 
-当 Portal 在 Scanner 40 米范围内时，可以从它连出到其他 Portal 的 Link，Link 需要目标 Portal 的 Key 和目标 Portal 8 个 Resonator 都部署完整。Portal 的等级与它能连出的 Link 长度成正比，Link 不可交叉。一个 Portal 最多连出 8 条 Link，连入的数量没有限制。当 Resonator 的数量低于 3 个，Link 就会被摧毁。
+当 Portal 在 Scanner 40 米范围内时，可以从它连出到其他 Portal 的 Link，Link 需要目标 Portal 的 Key 和两个 Portal 都部署完整 8 个 Resonator。Portal 的等级与它能连出的 Link 长度成正比，Link 不可交叉。一个 Portal 最多连出 8 条 Link，连入的数量没有限制。当 Resonator 的数量低于 3 个，Link 就会被摧毁。
 
 ## Field
 
